@@ -1,6 +1,8 @@
-<h1>Downloader</h1>
+<h1>Downloader-Gle</h1>
 
 Aqui foi desenvolvido um programa para fazer downloads de videos do Youtube, e ao mesmo tempo fazer a conversão do video para Video MP4 ou Áudio MP3.
+
+Isso surgiu de uma necessidade da minha irmã de baixar os videos de determinadas músicas no YouTube e convertê-las para mp3, e o programa que ela usava antes já não funcionava mais.
 
 <h2>Tecnologia usada</h2>
 
